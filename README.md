@@ -12,6 +12,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![profile-img]
-
-      (https://user-images.githubusercontent.com/64472285/111705673-61ccde00-8841-11eb-91d8-e03cc5f27139.png)
+![profile-img](https://user-images.githubusercontent.com/64472285/111705673-61ccde00-8841-11eb-91d8-e03cc5f27139.png)
